@@ -1,0 +1,75 @@
+
+g
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ú®Ú±
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(¤î˜Óüÿÿÿÿ
+i	java:S116"ORename this field "_dAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØ¼Úøÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(şØ¼Úøÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Òëàúÿÿÿÿ
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓÆä
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á°—¼ÿÿÿÿÿ
+o
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÊÉÅ
+o
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìú¢ê
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(œñÀ¨şÿÿÿÿ
+o
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ªÉ
+o
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡‡¦¬
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÛ‰”úÿÿÿÿ
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ŞÛŸ
+p
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿«—©
+g
+java:S1192W"LDefine a constant instead of duplicating this literal "description" 4 times.(ÅÕù‰üÿÿÿÿ
+e
+java:S1192n"JDefine a constant instead of duplicating this literal "discounts" 4 times.(Ú¡º–ıÿÿÿÿ
+b
+java:S1192a"LDefine a constant instead of duplicating this literal " Expected:
+" 3 times.(Ñ½«š
+c
+java:S1192U"HDefine a constant instead of duplicating this literal "INTEGER" 8 times.(ù¡ÜÎúÿÿÿÿ
+b
+java:S1192]"GDefine a constant instead of duplicating this literal "stores" 4 times.(–×‰ùÿÿÿÿ
+d
+java:S1192b"IDefine a constant instead of duplicating this literal " Found:
+" 3 times.(Ößüøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±„«§úÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½›Ó¥ÿÿÿÿÿ
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àùü
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞíßÛüÿÿÿÿ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÜœÅıÿÿÿÿ
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢…Êˆüÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÆä
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åØÿê
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á°—¼ÿÿÿÿÿ
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÊÉÅ
+f	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìú¢ê
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–×‰ùÿÿÿÿ
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÆÀÜ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñÀ¨şÿÿÿÿ
+f	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ªÉ
+f	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‡¦¬
+k	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¡º–ıÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·´Èƒ
+f	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åéø±
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŠœ—ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ıŞŸûÿÿÿÿ
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªêª”
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÛ‰”úÿÿÿÿ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŞÛŸ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿«—©
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ê×¶ùÿÿÿÿ
+v
+java:S1488ƒ"_Immediately return this expression instead of assigning it to the temporary variable "_helper".(ªêª”
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ÀÖ™
